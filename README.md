@@ -1,4 +1,4 @@
-# 🧾 Sistema de Cadastro de Usuários (Java)
+# Sistema de Cadastro de Usuários (Java)
 
 Um sistema simples em **Java** para gerenciamento de usuários (CRUD completo — **Criar, Ler, Atualizar e Deletar**) com armazenamento local em arquivo `.csv`.
 
@@ -6,17 +6,17 @@ O projeto foi desenvolvido com foco em **praticar Programação Orientada a Obje
 
 ----------------------------------------------------------------
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
-- ✅ Cadastrar novos usuários  
-- 📋 Listar todos os usuários cadastrados  
-- ✏️ Atualizar informações de um usuário existente  
-- ❌ Deletar usuários pelo ID  
-- 💾 Armazenar os dados em arquivo (pode ser aberto no Excel)
+-  Cadastrar novos usuários  
+-  Listar todos os usuários cadastrados  
+-  Atualizar informações de um usuário existente  
+-  Deletar usuários pelo ID  
+-  Armazenar os dados em arquivo (pode ser aberto no Excel)
 
 -----------------------------------------------------------------
 
-## 🧠 Conceitos praticados
+## Conceitos praticados
 
 - Classes e objetos (POO)  
 - Encapsulamento com getters e setters  
