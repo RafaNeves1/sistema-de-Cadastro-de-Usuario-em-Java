@@ -1,8 +1,8 @@
 # Sistema de Cadastro de Usuários (Java)
 
-Um sistema simples em **Java** para gerenciamento de usuários (CRUD completo — **Criar, Ler, Atualizar e Deletar**) com armazenamento local em arquivo `.csv`.
+Um sistema simples em **Java** para gerenciamento de usuários (CRUD completo) com armazenamento local em arquivo.
 
-O projeto foi desenvolvido com foco em **praticar Programação Orientada a Objetos (POO)**, **manipulação de arquivos** e **boas práticas de organização de código**.
+O projeto foi desenvolvido com foco em **(POO)**, **manipulação de arquivos** e **boas práticas de organização de código**.
 
 ----------------------------------------------------------------
 
